@@ -1,0 +1,12 @@
+A hospital is implementing a program to improve service quality and productivity.
+As part of this program the hospital management is attempting to measure and
+evaluate patient satisfaction. Data is collected from 95 recently discharged patients. The variables are: 
+Y: satisfaction, a subjective response measure on an increasing scale. 
+
+The potential regressor variables are 
+age: patient age, 
+severity: an index measuring the severity of the patient’ s illness, 
+surgical: an indicator of whether the patient is a surgical or medical patient (0 = surgical, 1 = medical),
+anxiety level: an index measuring the patient ’ s anxiety level, 
+day: the number of day the patient stay in hospital 
+gender: the gender of patients (0=female, 1=male)
